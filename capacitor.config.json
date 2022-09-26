@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BookEnds",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

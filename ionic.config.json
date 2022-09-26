@@ -1,0 +1,8 @@
+{
+  "name": "BookEnds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fbf73aa6"
+}
